@@ -32,8 +32,6 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Edge.cpp" />
-		<Unit filename="Edge.h" />
 		<Unit filename="Test.cpp" />
 		<Unit filename="Test.h" />
 		<Unit filename="main.cpp" />
